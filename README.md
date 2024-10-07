@@ -1,3 +1,6 @@
 # Demo 4
 
-Some Text
+Tanner's Resume 
+
+- some info here 
+- more info 
